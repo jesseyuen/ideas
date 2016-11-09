@@ -1,6 +1,6 @@
 # jesseyuen
 
-Hello world. Can a human being be open source? We shall see. See an area for improvment? You know what to do.
+Hello world. Do you think a human being can be open source? We shall see. See an area for improvment? You know what to do.
 
 Star sign: Cancer <br />
 Favourite Food: Yum Cha <br />
