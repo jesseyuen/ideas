@@ -1,6 +1,6 @@
 # jesseyuen
 
-This is me. See an area for improvment? Fork me.
+Can a person be open-source? We shall see. See an area for improvment? Fork me.
 
 Star sign: Cancer <br />
 Favourite Food: Yum Cha <br />
