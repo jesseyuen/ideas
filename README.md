@@ -6,4 +6,4 @@ Hello world. I'm wondering if a human being can be open source? We shall see.
 Star Sign: Cancer <br>
 Favourite Food: Yum Cha <br>
 Age: 35 <br>
-Skills: Frisbee <br>
+Skills: Hookers and Blow <br>
