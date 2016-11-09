@@ -1,6 +1,6 @@
 # jesseyuen
 
-Can a human being be open source? We shall see. See an area for improvment? Fork me.
+Can a human being be open source? We shall see. See an area for improvment? You know what to do.
 
 Star sign: Cancer <br />
 Favourite Food: Yum Cha <br />
