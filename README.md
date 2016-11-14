@@ -7,3 +7,6 @@ Star Sign: Cancer <br>
 Favourite Food: Yum Cha <br>
 Age: 35 <br>
 Skills: Frisbee
+
+Life Goals:
+* Finding the perfect position within the office for optimum body temperature control
