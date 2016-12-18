@@ -1,6 +1,6 @@
 # jesseyuen
 
-Hello world. I'm Jesse, the first &lowast open source human. wondering if a human being can be open source? We shall see.<br>
+Hello world. I'm Jesse, the first &#42; open source human. wondering if a human being can be open source? We shall see.<br>
 Have an idea for improvement? You know what to do.
 
 Star Sign: Cancer <br>
