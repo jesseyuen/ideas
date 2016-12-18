@@ -10,3 +10,8 @@ Skills: Frisbee
 
 Life Goals:
 * Finding the perfect position within the office for optimum body temperature control
+
+Plans for the holidays:
+* Skateboarding
+* Buy a crystal
+* Watch The Truman Show (again)
