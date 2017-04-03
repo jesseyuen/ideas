@@ -1,7 +1,7 @@
 # jesseyuen
 
 Hello world. I'm Jesse, the first&#42; open source human.<br>
-Have an idea for improvement or some feedback? You know what to do.
+Care to contribute? Go ahead and [open an issue](https://github.com/jesseyuen/jesseyuen/issues/new) or fork me. 
 
 Star Sign: Cancer <br>
 Favourite Food: Yum Cha <br>
