@@ -1,17 +1,15 @@
-# jesseyuen
-
-Hello world. I'm Jesse, the first&#42; open source human.
+# Ideas book
+------
 
 I'll be adding ideas for projects and blog posts etc as issues.
 
-Care to contribute? Go ahead and [open an issue](https://github.com/jesseyuen/jesseyuen/issues/new).
+## Care to contribute?
 
-Have any feedback? Please leave a comment. 
+If you have any feedback please leave a comment on an issue. 
 
-See an idea you like? It's yours. 
+See an idea you like? It's yours. Let me know how it turns out.
 
-Creating your own idea repo? Go ahead and fork me. 
+Creating your own ideas repo? Go ahead and fork me. 
 
 Cheers ✌️
 
-<sub>* May not be the first</sub>
