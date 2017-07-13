@@ -1,6 +1,6 @@
 # Ideas book
 
-I'll be adding ideas for projects and blog posts etc as issues.
+I'll be adding ideas for projects and blog posts etc as [issues](https://github.com/jesseyuen/jesseyuen/issues).
 
 ## Care to contribute?
 
