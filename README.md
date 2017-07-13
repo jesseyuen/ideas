@@ -1,20 +1,17 @@
 # jesseyuen
 
 Hello world. I'm Jesse, the first&#42; open source human.<br><br>
-Care to contribute? Go ahead and [open an issue](https://github.com/jesseyuen/jesseyuen/issues/new) or fork me. 
 
-Star Sign: Cancer <br>
-Favourite Food: Yum Cha <br>
-Age: 35 <br>
-Skills: Frisbee, Front-end Development
+I'll be adding ideas for projects and blog posts etc as issues.
 
-Life Goals:
-* Finding the perfect position within the office for optimum body temperature control
+Care to contribute? Go ahead and [open an issue](https://github.com/jesseyuen/jesseyuen/issues/new).
 
-Plans for the holidays:
-* Skateboarding
-* Buy a crystal
-* Watch The Truman Show (again)
+Have any feedback? Please leave a comment. 
 
+See an idea you like? It's yours. 
+
+Creating your own idea repo? Go ahead and fork me. 
+
+Cheers ✌️
 
 <sub>* May not be the first</sub>
