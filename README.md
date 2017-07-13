@@ -1,4 +1,4 @@
-# Ideas book
+# Ideas dump!
 
 This is where I add ideas for side projects, blog posts, novels I'll never write etc as [issues](https://github.com/jesseyuen/jesseyuen/issues).
 
