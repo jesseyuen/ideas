@@ -1,6 +1,6 @@
 # jesseyuen
 
-Hello world. I'm Jesse, the first&#42; open source human.<br><br>
+Hello world. I'm Jesse, the first&#42; open source human.
 
 I'll be adding ideas for projects and blog posts etc as issues.
 
