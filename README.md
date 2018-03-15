@@ -10,3 +10,4 @@ See an idea you like? It's yours. Let me know how it turns out ok?
 
 Cheers ✌️
 
+(Credit to [Zach Leatherman](https://github.com/zachleat/idea-book) for the inspiration)
